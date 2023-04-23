@@ -1,0 +1,4 @@
+langchain @ git+https://github.com/hwchase17/langchain.git --upgrade
+llama-cpp-python --upgrade
+chromadb
+flask_cors
